@@ -21,3 +21,7 @@ bspatch checkra1n checkra1n_patched checkra1n_A11_A10_mac.patch
 ```
 
 
+### Tested on the following devices and platforms:
+
+- iPhone 7 running 14.1 with the linux patch created with Ubuntu
+- iPod Touch 7 running 14.1 with the linux and macOS patch
