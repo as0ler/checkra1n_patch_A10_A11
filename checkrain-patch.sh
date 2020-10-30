@@ -6,7 +6,7 @@ if [ $PLATFORM = "Linux" ] ; then
     bspatch checkra1n $PATCHED_FILE checkra1n_A10_A11_linux.patch
     chmod +x checkra1n_patched
     echo "The patch has been applied."
-    echo "You can run it like so: ./$PATCHED_FILE -c"
+    echo "You can run it like so: sudo ./$PATCHED_FILE -c" # forgot that on linux you need to use sudo
 
 elif [ $PLATFORM = "Darwin" ] ; then
     echo "Extracting the CLI tool from the checkra1n application."
