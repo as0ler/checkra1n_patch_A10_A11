@@ -1,4 +1,4 @@
-# DISClAIMER
+# DISCLAIMER
 
 **This involves turning off passcode and touchID/FaceID leaving your iDevice with no security whatsoever, use this on a seperate device and if you're an end-user this is not for YOU! This is for Developers while waiting for an official release by the checkra1n team.Re-enabling passcode without restoring rootfs first will result in a kernel panic or softbrick, BE CAUTIOUS.**
 
